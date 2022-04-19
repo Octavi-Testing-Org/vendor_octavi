@@ -6,7 +6,8 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     ota \
     Updater \
-    ThemePicker
+    ThemePicker \
+    GamingMode \
 
 # Statusbar Icons
 PRODUCT_PACKAGES += \
